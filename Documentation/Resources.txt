@@ -1,0 +1,14 @@
+http://www.ni.com/documentation/en/labview-comms/latest/fpga-targets/testing-fpga-applications/   
+ 
+http://zone.ni.com/reference/en-XX/help/371361J-01/lvdevconcepts/testing_guidelines/
+
+http://www.ni.com/tutorial/51862/en/   Testing and Debugging LabVIEW FPGA Code
+
+http://zone.ni.com/reference/en-XX/help/371599H-01/lvfpgaconcepts/test_bench_tutorial/
+
+http://www.ni.com/white-paper/8082/en/
+
+http://zone.ni.com/reference/en-XX/help/372584D-01/lvutfconcepts/utfc_tests_cases/
+
+http://forums.ni.com/t5/LabVIEW-FPGA-Idea-Exchange/Use-relative-paths-or-project-items-for-custom-test-bench-VIs/idi-p/1466738, 
+http://forums.ni.com/t5/LabVIEW/FPGA-Simulation-custom-VI-for-I-O-relative-path/td-p/3112108
